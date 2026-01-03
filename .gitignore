@@ -1,0 +1,4 @@
+# Ignore Object files
+*.o
+# Ignore the executable
+dedup
