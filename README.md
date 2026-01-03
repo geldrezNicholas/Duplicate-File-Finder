@@ -7,7 +7,7 @@ Unlike basic tools that only check filenames, this program reads the actual bina
 ## Features
 
 * **Recursive Scanning:** It doesn't just check one folder; it dives into every subfolder automatically.
-* **Content-Based Detection:** Uses the **djb2** hashing algorithm to ID files based on their data, not their names.
+* **Content-Based Detection:** Uses the **DJB2** hashing algorithm to ID files based on their data, not their names.
 * **Memory Efficient:** Implements a custom **Linked List** to track files without wasting memory.
 * **Safe Deletion:** It finds duplicates but **asks for your permission** before deleting anything.
 
