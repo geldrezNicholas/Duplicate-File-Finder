@@ -29,10 +29,9 @@ From the project directory:
 # 1. Build the project
 make
 
-# (optional) Rebuild from scratch
-make clean
-make
-
-# 2. Run the project, "directory" is the directory you wish to scan
+# 2. Run the tool, "directory" is the directory you wish to scan
 ./dedup directory
+
+# 3. Clean Up
+make clean
 ```
