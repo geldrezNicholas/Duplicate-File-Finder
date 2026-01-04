@@ -1,4 +1,4 @@
-# Ignore Object files
+#Ignore Object files
 *.o
-# Ignore the executable
+#Ignore the executable
 dedup
